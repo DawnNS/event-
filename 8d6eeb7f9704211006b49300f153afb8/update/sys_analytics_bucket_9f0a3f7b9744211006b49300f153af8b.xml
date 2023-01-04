@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_analytics_bucket">
+    <sys_analytics_bucket action="INSERT_OR_UPDATE">
+        <analytics_channel display_value="web">6496ef61c7001010393d265c95c260b9</analytics_channel>
+        <application_name>CreateNotesServicePortal</application_name>
+        <bucket_document_id>11c93b7b9744211006b49300f153af66</bucket_document_id>
+        <bucket_metadata/>
+        <bucket_table_name>sp_portal</bucket_table_name>
+        <bucket_type>service_portal</bucket_type>
+        <enable_unauthenticated_user_tracking>false</enable_unauthenticated_user_tracking>
+        <enabled>true</enabled>
+        <internal_name_for_index>x_955941_createnot.sp_portal.11c93b7b9744211006b49300f153af66</internal_name_for_index>
+        <sys_class_name>sys_analytics_bucket</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-04 21:55:05</sys_created_on>
+        <sys_id>9f0a3f7b9744211006b49300f153af8b</sys_id>
+        <sys_name>CreateNotesServicePortal</sys_name>
+        <sys_package display_value="CreateNotes" source="x_955941_createnot">8d6eeb7f9704211006b49300f153afb8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CreateNotes">8d6eeb7f9704211006b49300f153afb8</sys_scope>
+        <sys_update_name>sys_analytics_bucket_9f0a3f7b9744211006b49300f153af8b</sys_update_name>
+    </sys_analytics_bucket>
+</record_update>

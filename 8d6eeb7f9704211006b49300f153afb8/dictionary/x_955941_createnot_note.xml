@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2a3f6bff9704211006b49300f153af96" extends="task" label="Note" max_length="40" name="x_955941_createnot_note" type="collection">
+        <element display="true" label="User" max_length="255" name="user" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="255" name="u_string_full_utf8_1" type="string_full_utf8"/>
+    </element>
+</database>
